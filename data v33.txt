@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Gaming enthusiasts and fans of the popular first-person shooter (FPS) game, Standoff 2, have been eagerly awaiting the release of its 2023 version ",
+   "photo1":"https://iili.io/J9rDuXS.webp"},
+  {"desc2":"Developed by Axlebolt, Standoff 2 has garnered a dedicated player base since its initial release and continues to be a standout title in the mobile gaming world","photo2":"https://iili.io/J9rDzml.webp"},
+  {"desc3":"One of the most anticipated aspects of Standoff 2's 2023 version is its revamped graphics and enhanced gameplay","photo3":"https://iili.io/J9rDTI2.webp"},
+  {"desc4":"With mobile devices continually improving in terms of processing power and graphics capabilities, the game developers have seized the opportunity to take the visual experience to the next level","photo4":"https://iili.io/J9rDxe4.webp"},
+  {"desc5":"Players can look forward to more detailed character models, realistic weapon animations, and immersive environments that enhance the overall gaming experience","photo5":"https://iili.io/J9rD5B9.webp"},
+  {"descd":"Moreover, the 2023 version promises smoother gameplay, thanks to optimizations that will ensure a consistent frame rate across a wide range of devices","photod":"https://iili.io/J9rD71e.webp"}
    ]
  
 }
